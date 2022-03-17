@@ -1,1 +1,2 @@
 # mpcc
+run main.m
